@@ -1,0 +1,9 @@
+[Core]
+Name = Covid Bot
+Module = covidbot
+
+[Documentation]
+Description = COVID bot.
+
+[Python]
+Version = 2+
